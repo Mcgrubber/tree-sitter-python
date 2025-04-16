@@ -5,7 +5,7 @@ Warning: Experimental Feature
 This feature is highly experimental and may not function as intended.
 Do NOT use in production environments. Proceed at your own risk.
 
-Let me know if you want it to sound more urgent or need a different style!
+
 
 [![CI][ci]](https://github.com/tree-sitter/tree-sitter-python/actions/workflows/ci.yml)
 [![discord][discord]](https://discord.gg/w7nTvsVJhm)
